@@ -12,7 +12,7 @@
 
 ![Roadmap](./roadmap.png)
 
-## 资源
+## 资料
 
 1. 基础
     1. HTML
