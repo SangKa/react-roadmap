@@ -2,6 +2,8 @@
 
 > 此学习路线将指引你在 2018 年成为 React 开发者
 
+此仓库是 [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap) 的中文版。
+
 下面的思维导图展示了 React 的学习路线以及在学习道路上所需要学习的东西。我画此图的目的主要是为了让问我“我接下来要学什么才能成为 React 开发者？”的人有一个清晰的目标。
 
 ## 免责声明
