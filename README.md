@@ -50,7 +50,7 @@
     * [Parcel](https://parceljs.org/)
 5. 样式
     1. CSS 预处理
-        * [Sass/CSS](https://sass-lang.com/)
+        * [Sass/SCSS](https://sass-lang.com/)
         * [PostCSS](https://postcss.org/)
         * [Less](http://lesscss.org/)
         * [Stylus](http://stylus-lang.com/)
